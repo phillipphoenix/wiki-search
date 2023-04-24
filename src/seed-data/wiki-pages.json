@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/Introduction",
+    "order": 1,
+    "gitItemPath": "/Introduction.md",
+    "subPages": [],
+    "url": "https://google.com",
+    "remoteUrl": "https://google.com",
+    "id": 1,
+    "content": "# Introduction\nREST APIs are a popular way of building web services that are easy to use and understand. They provide a standardized way to interact with resources on the web, making it simple for developers to create and consume them."
+  },
+  {
+    "path": "/Resource-Naming",
+    "order": 2,
+    "gitItemPath": "/Resource-Naming.md",
+    "subPages": [],
+    "url": "https://google.com",
+    "remoteUrl": "https://google.com",
+    "id": 2,
+    "content": "# Resource Naming\nIn RESTful APIs, resource naming is crucial for readability and usability. Use nouns to represent resources and avoid using verbs. Resources should be named in a consistent, hierarchical manner, using plural forms for collections."
+  },
+  {
+    "path": "/HTTP-Methods",
+    "order": 3,
+    "gitItemPath": "/HTTP-Methods.md",
+    "subPages": [],
+    "url": "https://google.com",
+    "remoteUrl": "https://google.com",
+    "id": 3,
+    "content": "# HTTP Methods\nRESTful APIs rely on standard HTTP methods to perform operations on resources. The most common methods are: GET (retrieve), POST (create), PUT (update), PATCH (partially update), and DELETE (remove). Each method has a specific purpose and should be used accordingly."
+  },
+  {
+    "path": "/Authentication",
+    "order": 4,
+    "gitItemPath": "/Authentication.md",
+    "subPages": [],
+    "url": "https://google.com",
+    "remoteUrl": "https://google.com",
+    "id": 4,
+    "content": "# Authentication\nSecuring REST APIs is essential to protect sensitive data and prevent unauthorized access. Popular authentication methods include Basic Authentication, API Keys, OAuth, and JWT (JSON Web Tokens). Choose the appropriate method based on your security requirements."
+  },
+  {
+    "path": "/Error-Handling",
+    "order": 5,
+    "gitItemPath": "/Error-Handling.md",
+    "subPages": [],
+    "url": "https://google.com",
+    "remoteUrl": "https://google.com",
+    "id": 5,
+    "content": "# Error Handling\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue.\n\nProper error handling is crucial for a good user experience. REST APIs should return appropriate HTTP status codes for different error scenarios (e.g., 404 for resource not found, 500 for server errors). Additionally, provide descriptive error messages to help clients understand the issue. THE END!"
+  },
+  {
+    "path": "/Versioning",
+    "order": 6,
+    "gitItemPath": "/Versioning.md",
+    "subPages": [],
+    "url": "https://google.com",
+    "remoteUrl": "https://google.com",
+    "id": 6,
+    "content": "# Versioning\nAPI versioning is essential to maintain backward compatibility and introduce new features without breaking existing clients. Common versioning strategies include URI versioning, query parameter versioning, and custom request header versioning. Choose the most suitable approach for your API."
+  }
+]

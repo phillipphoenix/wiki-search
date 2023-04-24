@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  meilisearch:
+    image: getmeili/meilisearch:v1.1
+    ports:
+      - "7700:7700"
+    volumes:
+      - ./meili_data:/meili_data
+    environment:
+      MEILI_HTTP_DATA_DIR: /meili_data
+      MEILI_ENV: 'development'
+      MEILI_MASTER_KEY: 'gdx-CDNWXjIbhuiZKaK5IQnX5FpsLhzypK8RqEjV6Lw'
